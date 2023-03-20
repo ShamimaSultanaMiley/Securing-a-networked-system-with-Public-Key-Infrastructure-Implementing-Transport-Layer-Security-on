@@ -1,4 +1,4 @@
-#SSL certificate generation step by step
+#
 Configuration of Certification Authority AcmeCA with AcmeRootCA as the RootCA.
 Configuration of the Web Server with Apache2 on a Linux Host. 
 DNS configuration for www.verysecureserver.com
