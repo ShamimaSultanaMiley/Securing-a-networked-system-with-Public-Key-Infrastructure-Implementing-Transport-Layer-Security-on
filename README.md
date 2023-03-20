@@ -1,4 +1,5 @@
-#  Configuration of Certification Authority AcmeCA with AcmeRootCA as the RootCA.
+#SSL certificate generation step by step
+Configuration of Certification Authority AcmeCA with AcmeRootCA as the RootCA.
 Configuration of the Web Server with Apache2 on a Linux Host. 
 DNS configuration for www.verysecureserver.com
 Firewall configuration to allow necessary ports (53, 80, 443) only
